@@ -43,7 +43,7 @@ El objetivo es determinar si la recuperación económica fue homogénea entre lo
 
 Fuente oficial:
 
-https://www.estadistica.ec.gba.gov.ar/dpe/index.php/economia/producto-bruto-geografico
+[https://drive.google.com/drive/u/0/folders/1xt510FQgK-0MK8MfRdWHQvpc9Kc9YOxI]
 
 ## Base complementaria
 
