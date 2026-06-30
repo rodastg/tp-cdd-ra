@@ -1,0 +1,25 @@
+
+> cat("=====================================================\n")
+=====================================================
+
+> cat("REPORTE DE TEST DE HIPÓTESIS ENTRE REGIONES\n")
+REPORTE DE TEST DE HIPÓTESIS ENTRE REGIONES
+
+> cat("=====================================================\n\n")
+=====================================================
+
+
+> cat("Método estadístico seleccionado:", metodo, "\n\n")
+Método estadístico seleccionado: Wilcoxon-Mann-Whitney 
+
+
+> print(resultado_test)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  variacion_pbg by region
+W = 1602, p-value = 0.1209
+alternative hypothesis: true location shift is not equal to 0
+
+
+> sink()

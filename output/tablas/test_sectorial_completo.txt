@@ -1,0 +1,30 @@
+
+> cat("=====================================================\n")
+=====================================================
+
+> cat("TEST PAREADO\n")
+TEST PAREADO
+
+> cat("=====================================================\n\n")
+=====================================================
+
+
+> cat("Método utilizado:\n")
+Método utilizado:
+
+> cat(metodo)
+Wilcoxon pareado
+> cat("\n\n")
+
+
+
+> print(resultado_test)
+
+	Wilcoxon signed rank test with continuity correction
+
+data:  datos$crecimiento_bienes and datos$crecimiento_servicios
+V = 3765, p-value = 0.07017
+alternative hypothesis: true location shift is not equal to 0
+
+
+> sink()

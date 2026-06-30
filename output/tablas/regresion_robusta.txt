@@ -1,0 +1,12 @@
+
+t test of coefficients:
+
+                 Estimate Std. Error t value  Pr(>|t|)    
+(Intercept)     25.812810   9.035876  2.8567 0.0049857 ** 
+region_interior -0.488891   1.371670 -0.3564 0.7221035    
+peso_agro       -0.177688   0.051693 -3.4374 0.0007894 ***
+peso_industria  -0.064674   0.046172 -1.4007 0.1636822    
+log_poblacion   -1.458358   0.703822 -2.0721 0.0402370 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+

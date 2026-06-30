@@ -1,0 +1,8 @@
+=======================================================================
+                 REPORTE DE ESTIMACIÓN DE LA REGRESIÓN
+=======================================================================
+Fecha de ejecución: 2026-06-30 06:52:50.259531
+Modelos estimados con éxito por MCO y Errores Robustos (HC1).
+Todos los archivos de tablas, métricas y gráficos han sido exportados
+correctamente a la carpeta /output/.
+=======================================================================

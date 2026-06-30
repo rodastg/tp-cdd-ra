@@ -1,0 +1,23 @@
+
+> cat("=====================================================\n")
+=====================================================
+
+> cat("TEST DE SHAPIRO-WILK\n")
+TEST DE SHAPIRO-WILK
+
+> cat("Diferencias: Bienes - Servicios\n")
+Diferencias: Bienes - Servicios
+
+> cat("=====================================================\n\n")
+=====================================================
+
+
+> print(normalidad)
+
+	Shapiro-Wilk normality test
+
+data:  datos$diferencia
+W = 0.95753, p-value = 0.000338
+
+
+> sink()
